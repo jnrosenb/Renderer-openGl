@@ -1,0 +1,62 @@
+{
+    "__type__": "scene",
+    "camera": {
+        "__type__": "camera",
+        "fov": 45.0,
+        "position": [0,15,0],
+        "up": [0,0,1],
+        "target": [0,0,0],
+		    "near": 1,
+		    "far": 2000
+    },
+  "objects": [
+    /*{
+      "__type__": "mesh",
+      "file_path": "large_plane.obj",
+      "materials": [ "blue_lambert", "white_bph_100", "bricks_lambert_bilinear" ]
+    },//*/
+    {
+      "__type__": "mesh",
+      "file_path": "box.obj",
+      "player": true,
+      "materials": [ "green_lambert", "white_bph_100" ]
+    },
+    {
+      "__type__": "mesh",
+      "file_path": "floor.obj",
+      "materials": [ "blue_lambert", "white_bph_100", "bricks_lambert_bilinear" ]
+    },
+    /*{
+      "__type__": "mesh",
+      "file_path": "ceiling.obj",
+      "materials": [ "blue_lambert", "white_bph_100", "bricks_lambert_bilinear" ]
+    },//*/
+    /*
+    {
+      "__type__": "mesh",
+      "file_path": "sphere.obj",
+      "animate":  true,
+      "materials": [ "blue_lambert", "white_bph_100", "earth_lambert_bilinear" ]
+    },
+    {
+      "__type__": "mesh",
+      "file_path": "teapot.obj",
+      "animate":  true,
+      "materials": [ "yellow_lambert", "white_bph_100" ]
+    }//*/
+  ],
+    "lights": [	   
+	      {
+          "__type__": "point_light",
+          "position": [5, -5, 5],
+          "color": [1.0, 1.0, 1.0]
+        },
+        {
+          "__type__": "ambient_light",
+          "color": [0.2, 0.2, 0.2]
+        }
+    ],
+    "params": {
+        "background_color": [0.0,0.0,0.0]
+    }
+}

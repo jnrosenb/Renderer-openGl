@@ -1,0 +1,16 @@
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\bin\x86\Debug\Shaders\VertexShader.glsl
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\bin\x86\Debug\Shaders\PixelShader.glsl
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\bin\x86\Debug\PixelShader.exe
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\bin\x86\Debug\PixelShader.pdb
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\bin\x86\Debug\OpenTK.Compatibility.dll
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\bin\x86\Debug\OpenTK.dll
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\bin\x86\Debug\OpenTK.GLControl.dll
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\bin\x86\Debug\OpenTK.xml
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\bin\x86\Debug\OpenTK.Compatibility.xml
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\bin\x86\Debug\OpenTK.GLControl.xml
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\obj\x86\Debug\PixelShader.Properties.Resources.resources
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\obj\x86\Debug\GLRenderer.csproj.GenerateResource.Cache
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\obj\x86\Debug\PixelShader.exe
+C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\obj\x86\Debug\PixelShader.pdb
