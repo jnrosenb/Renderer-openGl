@@ -97,10 +97,46 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>8RxwVMnJtoJWUmj5inDBICbYh0o=</dsig:DigestValue>
+        <dsig:DigestValue>+k3icoXCj7HvQIhb4ZV9N0ISbu4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
+  <file name="Json\scene5.json" size="1575">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2Hh/46z/4HnKtkGUT/97WYUvXu8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="meshes\box.obj" size="2441">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>G07eSCmX/m6F2tVgv1I5de8rbwY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="meshes\floor.obj" size="401">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>J5xHeW3M77UVUyxZEqqgXsJ1IbY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="resources\resources.json" size="4502">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>6leGihKT4PivMBufu6J544aYiXI=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="resources\textures\bricks.jpg" size="141656">
     <hash>
       <dsig:Transforms>

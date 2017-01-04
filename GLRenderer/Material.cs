@@ -59,7 +59,7 @@ namespace Ejemplo2
             foreach (Texture t in Textures)
             {
                 string[] split = t.path.Split('/');
-                Bitmap bitmap = (Bitmap)Image.FromFile(@"..\\..\\resources\\textures\\" + split[1]);
+                Bitmap bitmap = (Bitmap)Image.FromFile(@"resources\\textures\\" + split[1]);
                 this.bitmaps.Add(t.name, bitmap);
             }
         }

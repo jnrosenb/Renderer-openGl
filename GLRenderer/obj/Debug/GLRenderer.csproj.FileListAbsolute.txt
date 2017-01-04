@@ -40,3 +40,8 @@ C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Debug\PixelShader.exe.mani
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Debug\PixelShader.application
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Debug\PixelShader.exe
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Debug\PixelShader.pdb
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\Json\scene5.json
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\meshes\box.obj
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\meshes\floor.obj
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\resources\textures\bricks.jpg
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\resources\resources.json

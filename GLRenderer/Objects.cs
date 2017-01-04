@@ -59,7 +59,7 @@ namespace Ejemplo2
             //Index es para saber a que vertice se refieren las caras.
             int index = 1;  int vt_index = 1;   int vn_index = 1; //DESPUES CAMBIAR PARA QUE PARTAN EN 0 COMO EN OPENGL.
 
-            System.IO.StreamReader file = new System.IO.StreamReader("..\\..\\meshes\\" + path);
+            System.IO.StreamReader file = new System.IO.StreamReader("meshes\\" + path);
             while ((line = file.ReadLine()) != null) 
             {
                 //Este fragmento de codigo es por si viene con mas de un espacio el .obj separando los datos. 

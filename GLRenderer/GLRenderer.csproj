@@ -175,8 +175,12 @@
     <None Include="Json\scene3.json" />
     <None Include="Json\scene4.json" />
     <None Include="Json\scene6.json" />
-    <None Include="Json\scene5.json" />
-    <None Include="meshes\box.obj" />
+    <Content Include="Json\scene5.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="meshes\box.obj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="meshes\box_back.obj" />
     <None Include="meshes\box_bottom.obj" />
     <None Include="meshes\box_left.obj" />
@@ -195,9 +199,10 @@
     <None Include="meshes\ceiling.obj">
       <SubType>Designer</SubType>
     </None>
-    <None Include="meshes\floor.obj">
+    <Content Include="meshes\floor.obj">
       <SubType>Designer</SubType>
-    </None>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="meshes\large_plane.obj">
       <SubType>Designer</SubType>
     </None>
@@ -218,7 +223,9 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Content Include="resources\textures\bricks.jpg" />
+    <Content Include="resources\textures\bricks.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="resources\textures\bricks_SPEC.jpg" />
     <Content Include="resources\textures\chess.png" />
     <Content Include="resources\textures\earthmap.jpg" />
@@ -226,7 +233,9 @@
     <Content Include="Shaders\VertexShader.glsl">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <None Include="resources\resources.json" />
+    <Content Include="resources\resources.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Shaders\PixelShader.glsl">
