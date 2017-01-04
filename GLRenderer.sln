@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLRenderer", "GLRenderer\GLRenderer.csproj", "{78127754-23C1-4D69-A528-AE46CAD6AEC0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GlRenderer_setup", "GlRenderer_setup\GlRenderer_setup.vdproj", "{D63D6A29-7023-435F-88AB-3A6780505193}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,12 @@ Global
 		{78127754-23C1-4D69-A528-AE46CAD6AEC0}.Release|x64.Build.0 = Release|x64
 		{78127754-23C1-4D69-A528-AE46CAD6AEC0}.Release|x86.ActiveCfg = Release|x86
 		{78127754-23C1-4D69-A528-AE46CAD6AEC0}.Release|x86.Build.0 = Release|x86
+		{D63D6A29-7023-435F-88AB-3A6780505193}.Debug|Any CPU.ActiveCfg = Debug
+		{D63D6A29-7023-435F-88AB-3A6780505193}.Debug|x64.ActiveCfg = Debug
+		{D63D6A29-7023-435F-88AB-3A6780505193}.Debug|x86.ActiveCfg = Debug
+		{D63D6A29-7023-435F-88AB-3A6780505193}.Release|Any CPU.ActiveCfg = Release
+		{D63D6A29-7023-435F-88AB-3A6780505193}.Release|x64.ActiveCfg = Release
+		{D63D6A29-7023-435F-88AB-3A6780505193}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

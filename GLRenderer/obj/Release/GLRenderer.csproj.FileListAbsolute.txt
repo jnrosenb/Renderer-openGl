@@ -14,3 +14,24 @@ C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\obj\Release\PixelShader.P
 C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\obj\Release\GLRenderer.csproj.GenerateResource.Cache
 C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\obj\Release\PixelShader.exe
 C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\obj\Release\PixelShader.pdb
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\PixelShader.exe
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\PixelShader.pdb
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\Shaders\VertexShader.glsl
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\Shaders\PixelShader.glsl
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\PixelShader.exe.manifest
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\PixelShader.application
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\PixelShader.exe
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\PixelShader.pdb
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\Newtonsoft.Json.dll
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\OpenTK.Compatibility.dll
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\OpenTK.dll
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\OpenTK.GLControl.dll
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\Newtonsoft.Json.xml
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\OpenTK.xml
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\OpenTK.Compatibility.xml
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\OpenTK.GLControl.xml
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\PixelShader.Properties.Resources.resources
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\GLRenderer.csproj.GenerateResource.Cache
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\PixelShader.exe.manifest
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\PixelShader.application
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\GLRenderer.csprojResolveAssemblyReference.cache
