@@ -14,9 +14,12 @@ C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\obj\Release\PixelShader.P
 C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\obj\Release\GLRenderer.csproj.GenerateResource.Cache
 C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\obj\Release\PixelShader.exe
 C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\obj\Release\PixelShader.pdb
-C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\PixelShader.exe
-C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\PixelShader.pdb
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\Json\scene5.json
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\meshes\box.obj
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\meshes\floor.obj
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\resources\textures\bricks.jpg
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\Shaders\VertexShader.glsl
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\resources\resources.json
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\Shaders\PixelShader.glsl
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\PixelShader.exe.manifest
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\PixelShader.application
@@ -34,9 +37,13 @@ C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\PixelShader.Proper
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\GLRenderer.csproj.GenerateResource.Cache
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\PixelShader.exe.manifest
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\PixelShader.application
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\PixelShader.exe
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\PixelShader.pdb
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Release\GLRenderer.csprojResolveAssemblyReference.cache
-C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\Json\scene5.json
-C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\meshes\box.obj
-C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\meshes\floor.obj
-C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\resources\textures\bricks.jpg
-C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\resources\resources.json
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\resources\textures\bricks_SPEC.jpg
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\resources\textures\chess.png
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\resources\textures\earthmap.jpg
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\resources\textures\red.png
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\meshes\bunny.obj
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\meshes\sphere.obj
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Release\meshes\teapot.obj

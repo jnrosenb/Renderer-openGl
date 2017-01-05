@@ -133,9 +133,10 @@ namespace Transformation
                 var scene = (Scene)ObjectHook(JToken.Parse(jsonString1));      
                 return scene;
             }
-            catch (IOException)
+            catch (IOException err)
             {
                 Console.WriteLine("Error, archivo no existe!");
+                Console.WriteLine(err.Message);
                 Console.Beep();
                 return null;
             }

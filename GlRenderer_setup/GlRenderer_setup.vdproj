@@ -155,6 +155,11 @@
                     "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
                     "ProductCode" = "8:.NETFramework,Version=v4.5"
                     }
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:Microsoft.Windows.Installer.4.5"
+                    {
+                    "Name" = "8:Windows Installer 4.5"
+                    "ProductCode" = "8:Microsoft.Windows.Installer.4.5"
+                    }
                 }
             }
         }
@@ -367,22 +372,22 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:GlRenderer_setup"
         "ProductCode" = "8:{56881AA0-7A9F-4E33-ADA3-A94A5CCF8AB1}"
-        "PackageCode" = "8:{9C1713A3-326A-459B-A43B-B11068460359}"
+        "PackageCode" = "8:{86216804-395F-4A58-B659-FB7CB6558F01}"
         "UpgradeCode" = "8:{49A6192D-CB94-4302-A616-7B056421293E}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
-        "RemovePreviousVersions" = "11:FALSE"
+        "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
-        "InstallAllUsers" = "11:FALSE"
+        "InstallAllUsers" = "11:TRUE"
         "ProductVersion" = "8:1.0.0"
-        "Manufacturer" = "8:Default Company Name"
+        "Manufacturer" = "8:Gaspacorp"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
         "Title" = "8:GlRenderer_setup"
         "Subject" = "8:"
-        "ARPCONTACT" = "8:Default Company Name"
+        "ARPCONTACT" = "8:Jose Rosenbluth"
         "Keywords" = "8:"
-        "ARPCOMMENTS" = "8:"
+        "ARPCOMMENTS" = "8:Setup for installing a glRenderer that displays a scene in which you can switch between third and first person cameras."
         "ARPURLINFOABOUT" = "8:"
         "ARPPRODUCTICON" = "8:"
         "ARPIconIndex" = "3:0"
@@ -487,6 +492,34 @@
         }
         "Shortcut"
         {
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_30E8E5BD07AC4EECB2F9BFCC8BDBF40A"
+            {
+            "Name" = "8:glrenderer"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:32512"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_7BB900F2FFD940B693689AA220F88FE4"
+            "Folder" = "8:_4AA76C7DFC0748569B2A3047AC31441B"
+            "WorkingFolder" = "8:_A76BB63C640A4822925BB5A1DA44887A"
+            "Icon" = "8:_7BB900F2FFD940B693689AA220F88FE4"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_7AC4ECF76CBC47ACA36249D76291EC4C"
+            {
+            "Name" = "8:glrenderer"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:32512"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_7BB900F2FFD940B693689AA220F88FE4"
+            "Folder" = "8:_36290A6D7D6842AA851B2065842FE7C0"
+            "WorkingFolder" = "8:_A76BB63C640A4822925BB5A1DA44887A"
+            "Icon" = "8:_7BB900F2FFD940B693689AA220F88FE4"
+            "Feature" = "8:"
+            }
         }
         "UserInterface"
         {
@@ -916,7 +949,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_7BB900F2FFD940B693689AA220F88FE4"
             {
-            "SourcePath" = "8:..\\GLRenderer\\obj\\Release\\PixelShader.exe"
+            "SourcePath" = "8:..\\GLRenderer\\obj\\Debug\\PixelShader.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_A76BB63C640A4822925BB5A1DA44887A"

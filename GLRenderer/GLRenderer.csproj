@@ -118,6 +118,9 @@
   <PropertyGroup>
     <SignManifests>true</SignManifests>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icons-Land-Vista-Multimedia-Play-1-Hot.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net40\Newtonsoft.Json.dll</HintPath>
@@ -175,6 +178,7 @@
     <None Include="Json\scene3.json" />
     <None Include="Json\scene4.json" />
     <None Include="Json\scene6.json" />
+    <Content Include="Icons-Land-Vista-Multimedia-Play-1-Hot.ico" />
     <Content Include="Json\scene5.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -188,9 +192,10 @@
     <None Include="meshes\box_player_flipped.obj" />
     <None Include="meshes\box_right.obj" />
     <None Include="meshes\box_top.obj" />
-    <None Include="meshes\bunny.obj">
+    <Content Include="meshes\bunny.obj">
       <SubType>Designer</SubType>
-    </None>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="meshes\bunny_low.obj" />
     <None Include="meshes\cillinder.obj" />
     <None Include="meshes\counter.obj">
@@ -208,10 +213,13 @@
     </None>
     <None Include="meshes\plane.obj" />
     <None Include="meshes\room.obj" />
-    <None Include="meshes\sphere.obj">
+    <Content Include="meshes\sphere.obj">
       <SubType>Designer</SubType>
-    </None>
-    <None Include="meshes\teapot.obj" />
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="meshes\teapot.obj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="meshes\teapot_low.obj" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -226,10 +234,18 @@
     <Content Include="resources\textures\bricks.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="resources\textures\bricks_SPEC.jpg" />
-    <Content Include="resources\textures\chess.png" />
-    <Content Include="resources\textures\earthmap.jpg" />
-    <Content Include="resources\textures\red.png" />
+    <Content Include="resources\textures\bricks_SPEC.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="resources\textures\chess.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="resources\textures\earthmap.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="resources\textures\red.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Shaders\VertexShader.glsl">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

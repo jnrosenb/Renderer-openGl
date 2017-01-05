@@ -19,7 +19,12 @@ C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\bin\Debug\PixelShader.app
 C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\obj\Debug\GLRenderer.csprojResolveAssemblyReference.cache
 C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\obj\Debug\PixelShader.exe.manifest
 C:\Users\hm_jo\Desktop\jnrosenb\gl_renderer\GLRenderer\obj\Debug\PixelShader.application
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\Json\scene5.json
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\meshes\box.obj
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\meshes\floor.obj
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\resources\textures\bricks.jpg
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\Shaders\VertexShader.glsl
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\resources\resources.json
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\Shaders\PixelShader.glsl
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\PixelShader.exe.manifest
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\PixelShader.application
@@ -33,15 +38,16 @@ C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\Newtonsoft.Json.xml
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\OpenTK.xml
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\OpenTK.Compatibility.xml
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\OpenTK.GLControl.xml
-C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Debug\GLRenderer.csprojResolveAssemblyReference.cache
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Debug\PixelShader.Properties.Resources.resources
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Debug\GLRenderer.csproj.GenerateResource.Cache
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Debug\PixelShader.exe.manifest
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Debug\PixelShader.application
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Debug\PixelShader.exe
 C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\obj\Debug\PixelShader.pdb
-C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\Json\scene5.json
-C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\meshes\box.obj
-C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\meshes\floor.obj
-C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\resources\textures\bricks.jpg
-C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\resources\resources.json
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\resources\textures\bricks_SPEC.jpg
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\resources\textures\chess.png
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\resources\textures\earthmap.jpg
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\resources\textures\red.png
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\meshes\bunny.obj
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\meshes\sphere.obj
+C:\Users\hm_jo\Desktop\Renderer OpenGl\GLRenderer\bin\Debug\meshes\teapot.obj

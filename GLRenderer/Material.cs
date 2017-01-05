@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.IO;
 
 //El bitmap podria estar cargado estaticamente en vez de que cada instancia de material texturizado
 //tenga acceso a todas las texturas.
@@ -59,7 +60,9 @@ namespace Ejemplo2
             foreach (Texture t in Textures)
             {
                 string[] split = t.path.Split('/');
-                Bitmap bitmap = (Bitmap)Image.FromFile(@"resources\\textures\\" + split[1]);
+                string imgFilePath = Path.Combine("resources", "textures", split[1]);
+                Bitmap bitmap = (Bitmap)Image.FromFile(imgFilePath);
+                //Bitmap bitmap = (Bitmap)Image.FromFile(@"resources\\textures\\" + split[1]);
                 this.bitmaps.Add(t.name, bitmap);
             }
         }

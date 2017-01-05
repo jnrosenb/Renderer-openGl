@@ -141,7 +141,12 @@ namespace PixelShader
             OpenTK.Graphics.GraphicsContextFlags.ForwardCompatible | OpenTK.Graphics.GraphicsContextFlags.Debug)
         {
             //*CARGA ESCENA EN SCENE. AQUI PONER PATH DEL JSON QUE SE QUIERA LEER *********
-            scene = Scene.LoadScene("Json\\scene5.json", SceneWidth, SceneHeight);
+            string sceneFilePath = Path.Combine("Json", "scene5.json");
+            scene = Scene.LoadScene(sceneFilePath, SceneWidth, SceneHeight);
+
+            //Posicion en que aparece la ventana:
+            this.X = 100;
+            this.Y = 20;
 
             //Mouse y keyboard
             Mouse.Move += mouseMoved;

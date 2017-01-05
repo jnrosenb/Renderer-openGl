@@ -14,7 +14,9 @@ namespace Ejemplo2
 
         public static void load()
         {
-            var jsonString = File.ReadAllText("Resources\\Resources.json");
+            string resFilePath = Path.Combine("resources", "resources.json");
+            var jsonString = File.ReadAllText(resFilePath);
+            //var jsonString = File.ReadAllText("Resources\\Resources.json");
             var resources = (List<Material>)loadResources(JToken.Parse(jsonString));
             
             foreach (var res in resources)
