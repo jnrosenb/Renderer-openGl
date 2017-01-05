@@ -1,12 +1,12 @@
 # Renderer-openGl
-Renderer creado usando OpenGl. Testeo de camaras primera y tercera persona-
+## Renderer creado usando OpenGl. Testeo de camaras primera y tercera persona-
 
-Instrucciones de descarga:
+**Instrucciones de descarga:**
 
 Bajar instalador, presente en carpeta GlRenderer_setup/release. Al instalar, se creara un ejecutable en el escritorio llamado glrenderer.
 
 
-instrucciones de uso:
+**instrucciones de uso:**
 
 **Player representado con un paralelepipedo rectangular
 **para cerrar la aplicacion se puede presionar esc.
