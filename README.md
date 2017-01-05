@@ -3,7 +3,7 @@
 
 **Instrucciones de descarga:**
 
-Bajar instalador, presente en carpeta GlRenderer_setup/release. Al instalar, se creara un ejecutable en el escritorio llamado glrenderer.
+Bajar instalador, presente en carpeta *GlRenderer_setup/Release*. Al instalar, se creara un ejecutable en el escritorio llamado glrenderer.
 
 
 **instrucciones de uso:**
