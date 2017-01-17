@@ -3,7 +3,7 @@
 
 **Instrucciones de descarga:**
 
-Hacer click en instalador (GlRenderer_setup.msi). Al instalar, se creara un ejecutable en el escritorio llamado glrenderer.
+Hacer click en instalador (**GlRenderer_setup.msi**). Al instalar, se creara un ejecutable en el escritorio llamado glrenderer.
 
 
 **instrucciones de uso:**
